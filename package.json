@@ -1,0 +1,25 @@
+{
+  "name": "reconnect-net",
+  "description": "Reconnect a tcp stream when it goes down.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/reconnect-net.git"
+  },
+  "homepage": "https://github.com/juliangruber/reconnect-net",
+  "main": "index.js",
+  "dependencies": {
+    "reconnect-core": "~0.0.0"
+  },
+  "keywords": [
+    "reconnect",
+    "tpc",
+    "net"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}

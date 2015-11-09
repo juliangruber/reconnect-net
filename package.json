@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/reconnect-net",
   "main": "index.js",
   "dependencies": {
-    "reconnect-core": "~0.0.0"
+    "reconnect-core": "~1.1.0"
   },
   "keywords": [
     "reconnect",

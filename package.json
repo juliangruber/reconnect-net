@@ -1,7 +1,7 @@
 {
   "name": "reconnect-net",
   "description": "Reconnect a tcp stream when it goes down.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/juliangruber/reconnect-net.git"
@@ -9,7 +9,7 @@
   "homepage": "https://github.com/juliangruber/reconnect-net",
   "main": "index.js",
   "dependencies": {
-    "reconnect-core": "~1.1.0"
+    "reconnect-core": "~1.2.0"
   },
   "keywords": [
     "reconnect",
